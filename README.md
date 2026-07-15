@@ -42,7 +42,7 @@ I am a **Software Analysis and Development (ADS)** student at Estácio. I am a p
 ### 📂 Featured Projects
 *As you build your projects, pin them here with a link:*
 
-1. **[Project Name 1]([link-to-your-repo](https://maison-luxury-kohl.vercel.app/))**: A brief 1-line description of what the project does and the tools used. *(e.g., "A Mobile & Web application built with React, Node.js, and TypeScript.")*
+1. **[Project Name 1](https://maison-luxury-kohl.vercel.app/)**: A brief 1-line description of what the project does and the tools used. *(e.g., "A Mobile & Web application built with React, Node.js, and TypeScript.")*
 2. **[Project Name 2](link-to-your-repo)**: A brief 1-line description of your second best project. *(e.g., "A desktop tool built using C# or a data script written in Python.")*
 
 ---
